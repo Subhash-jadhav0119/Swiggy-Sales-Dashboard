@@ -6,7 +6,7 @@ This project presents an interactive swiggy sales dashboard built in Microsoft E
 
 the objective of this project is to transform raw swiggy sales data into meaningful insights that support data-driven decision-making.
 
-...
+
 
 ## Business problem 
 
@@ -27,14 +27,14 @@ This dashboard helps stakeholders answer important business questions such as :
 
 The dashboard tracks the following metrics:
 # | KPI | Value |
-  |......|......|
+
   | Total Sales | 5.30 crore+ |
   | Total Orders | 1.97 Lakh |
   | Average Order value | 268.51 |
   | Average rating 4.34 |
   | Rating Count | 55.9 |
 
-  ...
+  
 
   # dashboard Features 
 
@@ -101,7 +101,7 @@ The dashboard tracks the following metrics:
   - Month
   - Week Number
  
-   .....
+   
 
    ## Business Insights
 
@@ -117,5 +117,5 @@ The dashboard tracks the following metrics:
     
 
     
-  -   
+   
    
