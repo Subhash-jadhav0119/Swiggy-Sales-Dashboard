@@ -6,8 +6,9 @@ This project presents an interactive swiggy sales dashboard built in Microsoft E
 
 the objective of this project is to transform raw swiggy sales data into meaningful insights that support data-driven decision-making.
 
-## Project Overview 
 ## 📊 Dashboard Preview
+
+
 
 
 
