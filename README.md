@@ -10,7 +10,7 @@ the objective of this project is to transform raw swiggy sales data into meaning
 
 ## 📊 Dashboard Preview
 
-[Swiggy Sales Dashboard](./Swiggy%20Sales%20Dashboard%20image.png)
+![Swiggy Sales Dashboard](./Swiggy%20Sales%20Dashboard%20image.png)
 
 
 
